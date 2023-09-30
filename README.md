@@ -86,7 +86,7 @@ Google Machine Learning Bootcamp 2023 Archives 🔥
     </tr>
     <tr>
       <td align="center">GMLB07</td>
-      <td align="center"><a href="https://www.kaggle.com/competitions/playground-series-s3e22">Child Mind Institute - Detect Sleep States<br>(Detect sleep onset and wake from wrist-worn accelerometer data)</a></td>
+      <td align="center"><a href="https://www.kaggle.com/competitions/child-mind-institute-detect-sleep-states">Child Mind Institute - Detect Sleep States<br>(Detect sleep onset and wake from wrist-worn accelerometer data)</a></td>
       <td align="center"></td>
       <td align="center">23/09/05 ~ 23/12/05</td>
       <td align="center">
