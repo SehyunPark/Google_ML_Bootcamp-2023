@@ -12,7 +12,6 @@ Google Machine Learning Bootcamp 2023 Archives 🔥
       <th>Result</th>
       <th>Date</th>
       <th>Links</th>
-      <th>Etc.</th>
     </tr>
   </thead>
   <tbody>
@@ -26,7 +25,6 @@ Google Machine Learning Bootcamp 2023 Archives 🔥
         <a href="https://blog.naver.com/harry0558/223208820378"> Review </a><br>
         <a href=""> Summary(TBD) </a>
       </td>
-      <td></td>
     </tr>
     <tr>
       <td align="center">GMLB02</td>
@@ -37,7 +35,6 @@ Google Machine Learning Bootcamp 2023 Archives 🔥
         <a href=""> Review(TBD) </a><br>
         <a href=""> Summary(TBD) </a>
       </td>
-      <td></td>
     </tr>
     <tr>
       <td align="center">GMLB03</td>
@@ -48,7 +45,6 @@ Google Machine Learning Bootcamp 2023 Archives 🔥
         <a href="https://blog.naver.com/harry0558/223224341680"> Review </a><br>
         <a href=""> Summary(TBD) </a>
       </td>
-      <td></td>
     </tr>
     <tr>
       <td align="center">GMLB04</td>
@@ -59,7 +55,6 @@ Google Machine Learning Bootcamp 2023 Archives 🔥
         <a href=""> Review(TBD) </a><br>
         <a href=""> Summary(TBD) </a>
       </td>
-      <td></td>
     </tr>
     <tr>
       <td align="center">GMLB05</td>
@@ -70,7 +65,6 @@ Google Machine Learning Bootcamp 2023 Archives 🔥
         <a href=""> Review(TBD) </a><br>
         <a href=""> Summary(TBD) </a>
       </td>
-      <td></td>
     </tr>
     <tr>
       <td align="center">GMLB06</td>
@@ -82,7 +76,6 @@ Google Machine Learning Bootcamp 2023 Archives 🔥
         <a href=""> Review(TBD) </a><br>
         <a href=""> GitHub(TBD)</a>
       </td>
-      <td align="center">Associated with C002</td>
     </tr>
     <tr>
       <td align="center">GMLB07</td>
@@ -93,7 +86,6 @@ Google Machine Learning Bootcamp 2023 Archives 🔥
         <a href=""> Review(TBD) </a><br>
         <a href=""> GitHub(TBD)</a>
       </td>
-      <td align="center">Associated with C003</td>
     </tr>
     <tr>
       <td>
