@@ -82,6 +82,10 @@ Google Machine Learning Bootcamp 2023 Archives 🔥
       <td align="center"><a href="https://www.kaggle.com/competitions/playground-series-s3e24">Binary Prediction of Smoker Status using Bio-Signals<br>(Kaggle Playground Series - Season 3, Episode 24)</a></td>
       <td align="center"></td>
       <td align="center">23/10/24 ~ 23/11/13</td>
+      <td align="center">
+        <a href=""> Review(TBD) </a><br>
+        <a href=""> GitHub(TBD)</a>
+      </td>
     </tr>
   </tbody>
 </table>
